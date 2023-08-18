@@ -1,0 +1,56 @@
+/* font for Body Text
+PREVIEW HERE
+https://fonts.google.com/specimen/Source+Sans+3
+*/
+
+@font-face {
+    font-family: 'try_clotherbold';
+    src: url('../fonts/try_clother-bold-webfont.woff2') format('woff2'),
+         url('../fonts/try_clother-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'try_clotherregular';
+    src: url('../fonts/try_clother-regular-webfont.woff2') format('woff2'),
+         url('../fonts/try_clother-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+/* font for Heading */
+@font-face {
+    font-family: 'FONTSPRING DEMO - Intervogue Alt Bold';
+    src: url('../fonts/Fontspring-DEMO-intervoguealt-bold.eot');
+    src: url('../fonts/Fontspring-DEMO-intervoguealt-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Fontspring-DEMO-intervoguealt-bold.woff2') format('woff2'),
+         url('../fonts/Fontspring-DEMO-intervoguealt-bold.woff') format('woff'),
+         url('../fonts/Fontspring-DEMO-intervoguealt-bold.svg#FONTSPRING DEMO - Intervogue Alt Bold') format('svg');
+}
+
+/* font for Headings 
+PREVIEW HERE
+https://www.fontsquirrel.com/fonts/quicksand
+*/
+
+#main-icon-img {
+    border-radius: 15%;
+    width:75px;
+    height: 75px;
+    margin: 10px;
+}
+
+#jam-main-title {
+    padding: 0 !important;
+
+    font-family: 'FONTSPRING DEMO - Intervogue Alt Bold', sans-serif;
+}
+
+#root {
+    font-family:'try_clotherregular', sans-serif;
+}
