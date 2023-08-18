@@ -7,6 +7,15 @@ import NavBar from '../src/component/NavBar.js';
 import App from '../src/App.js';
 
 
+<<<<<<< HEAD
+=======
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <div>Hello world! FRICK CFERICKSDK</div>,
+  },
+]);
+>>>>>>> d41ebe393a2cbbcbf545dc5a12410ff40f2391bd
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
