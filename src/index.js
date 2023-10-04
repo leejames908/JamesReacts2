@@ -1,13 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import About from './component/About.js';
 import { BrowserRouter } from "react-router-dom";
-import NavBar from '../src/component/NavBar.js';
 import App from '../src/App.js';
 
 
-
+/*
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -16,6 +14,14 @@ root.render(
     </BrowserRouter>
   </React.StrictMode>
 );
+*/
+ReactDOM.render(
+	<React.StrictMode>
+		<App />
+	</React.StrictMode>,
+	document.getElementById('root')
+);
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
