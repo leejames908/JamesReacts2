@@ -15,9 +15,10 @@ export default function myImages() {
         <>
             <div class="h2">{teamAquaBase.title}</div>
             <div>{teamAquaBase.description}</div>
-            <image alt="team aquas base" class="unga" src={teamAquaBase.myImagePath}/>
-            <image alt="team aquas base" class="unga" src={teamAquaBase.myImagePath}/>
-            <image alt="team aquas base" class="unga" src={teamAquaBase.myImagePath}/>
+            <div>{teamAquaBase.myImagePath}</div>
+            <img alt="team aqua's base" class="unga img-fluid" src={teamAquaBase.myImagePath}/>
+            <img alt="team aqua's base" class="unga" src={teamAquaBase.myImagePath}/>
+            <img alt="team aqua's base" class="unga" src={teamAquaBase.myImagePath}/>
         </>
 
     )

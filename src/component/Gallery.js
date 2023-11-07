@@ -27,7 +27,9 @@ export default function gallery() {
                             <img src = {item.imgSrc} style = {{width: '100%'}}/>
                         </div>
             )
-            })}
+            }
+            )
+            }
             </div>
         </>
     )

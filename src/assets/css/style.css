@@ -3,7 +3,26 @@ PREVIEW HERE
 https://fonts.google.com/specimen/Source+Sans+3
 */
 
+.james-navbar-buttons{
+    text-decoration: none;
 
+}
+
+
+.james-navbar-buttons:link, .james-navbar-buttons:visited{
+    color: #000000;
+}
+
+.james-navbar-buttons:hover{
+    color:#979c56;
+
+}
+
+
+.unga{
+    width: 300px;
+    
+}
 #bounds-test{
     background-color: #dde09b;
 }
