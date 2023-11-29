@@ -3,11 +3,27 @@ import { imagePath } from '../utils/helpers.js'
 import { Button } from 'bootstrap';
 import { Modal } from 'react-bootstrap';
 
-
+{/*
+function jamesModal(modalImgSrc,modalImgTitle,modalImgDescription){
+  return(
+    <>
+      <div>{modalImgSrc}, {modalImgDescription}, {modalImgTitle} </div>
+    </>
+  )
+}
+*/}
 export default function illustration(){
-    let heyMyPic = `${imagePath}` + '/illustration12.JPG';
+    let heyMyPic = `${imagePath}` + '/illustration12.JPG';{/*
+    let jammy1 = 'hi this is jammy 1';
+let jammy2 = 'hey thsi is jammy 2';
+let jammy3 = 'this is jammy 3';*/}
     return(
-        <>
+        <>{/*  <div>
+        <jamesModal modalImgSrc = {jammy1} modalImgTitle = {jammy2} modalImgDescription = {jammy3} />
+        <jamesModal modalImgSrc = {jammy1} modalImgTitle = {jammy2} modalImgDescription = {jammy3} />
+        <jamesModal modalImgSrc = {jammy1} modalImgTitle = {jammy2} modalImgDescription = {jammy3} />
+        <jamesModal modalImgSrc = {jammy1} modalImgTitle = {jammy2} modalImgDescription = {jammy3} />
+        </div>*/}
             <div class="h1">This is the illustration route!!</div>
             {/*
             <img src = {heyMyPic} class = "img-fluid"/> 
