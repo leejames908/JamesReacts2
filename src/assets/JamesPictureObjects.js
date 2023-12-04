@@ -1,48 +1,44 @@
+import { imagePath } from '../utils/helpers'
 
-
-function jamesPictureObjects(projectType){
-
-    let images = [
+    export const images = [
         {
-            Title: "Apocalypse Bmo",
-            Project: "Background Design",
-            IndexNumber: 1,
-            Description: "Personal fanart illustration of BMO from Adventure Time.",
-            ImgUrl: [`${imagePath}/bgart1.JPG`],
-            ImgSize: "",
+            title: "Apocalypse Bmo",
+            project: "Background Design",
+            indexNumber: 1,
+            description: "Personal fanart illustration of BMO from Adventure Time.",
+            imgUrl: [`${imagePath}/bgart1.JPG`],
+            imgSize: "",
         },
         {
-            Title: "Team Aqua's Base",
-            Project: "Illustration",
-            IndexNumber: 2,
-            Description: "A Pokemon fanart illustration for the Wings of Hoenn anthology.",
-            ImgUrl: [`${imagePath}/illustration1.JPG`],
-            ImgSize: "",
+            title: "Team Aqua's Base",
+            project: "Illustration",
+            indexNumber: 2,
+            description: "A Pokemon fanart illustration for the Wings of Hoenn anthology.",
+            imgUrl: [`${imagePath}/illustration1.JPG`],
+            imgSize: "",
         },
         {
-            Title: "Friend Time",
-            Project: "Illustration",
-            IndexNumber: 3,
-            Description: "A personal illustration of my friends from my POV in their car.",
-            ImgUrl: [`${imagePath}/illustration2.JPG`],
-            ImgSize: "",
+            title: "Friend Time",
+            project: "Illustration",
+            indexNumber: 3,
+            description: "A personal illustration of my friends from my POV in their car.",
+            imgUrl: [`${imagePath}/illustration2.JPG`],
+            imgSize: "",
         },
         {
-            Title: "Onsen",
-            Project: "Background Design",
-            IndexNumber: 4,
-            Description: "Personal Background design of a wooden onsen.",
-            ImgUrl: [`${imagePath}/bgart2.JPG`],
-            ImgSize: "",
+            title: "Onsen",
+            project: "Background Design",
+            indexNumber: 4,
+            description: "Personal Background design of a wooden onsen.",
+            imgUrl: [`${imagePath}/bgart2.JPG`],
+            imgSize: "",
         },
         {
-            Title: "Cookin",
-            Project: "Background Design",
-            IndexNumber: 5,
-            Description: "Personal illustration of a chef cooking with some unhelpful companions.",
-            ImgUrl: [`${imagePath}/bgart3.JPG`],
-            ImgSize: "",
+            title: "Cookin",
+            project: "Background Design",
+            indexNumber: 5,
+            description: "Personal illustration of a chef cooking with some unhelpful companions.",
+            imgUrl: [`${imagePath}/bgart3.JPG`],
+            imgSize: "",
         }
     ]
-
-}
