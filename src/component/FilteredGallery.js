@@ -1,6 +1,7 @@
 import React from 'react';
 import '../assets/css/gallery.css';
 import { images } from '../assets/JamesPictureObjects';
+import JamesImageModals from './JamesImageModals';
 
 
 /* Comments refer to what is directly below them unless otherwise specified */
@@ -35,12 +36,12 @@ matching project value (I may need to check if the datatype will cause conflict)
 	return(
 	        <>
 {/* This is the <div> component that contains the gallery */}
-	            <div className = "base-gallery">
+                <div className = "base-gallery">
 
 	                {filteredGallery.map((item, index)=>{
 	                    return(
 	                        <div className = "pics" key = {index}>
-	                            <img alt = "" src = {item.imgUrl} style = {{width: '100%'}}/>
+	                            <JamesImageModals title = {item.title} description = {item.description} project = {item.project} imgUrl = {item.imgUrl}/>
 	                        </div>
 	            )
 	            })}

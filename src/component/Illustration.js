@@ -26,7 +26,9 @@ let jammy3 = 'this is jammy 3';*/
             <img src = {heyMyPic} class = "img-fluid"/> 
     */}
 
-<img alt = "" src = {heyMyPic} class = "img-fluid" data-bs-toggle="modal" data-bs-target="#exampleModal"/>
+<img alt = "" src = {heyMyPic} class = "w-25 img-fluid" data-bs-toggle="modal" data-bs-target="#exampleModal"/>
+<div>Hi i am here and working</div>
+
 
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl">
