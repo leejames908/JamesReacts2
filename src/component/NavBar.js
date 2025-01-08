@@ -13,7 +13,7 @@ export default function navBar() {
             <Link to = "/"><img class="" id = 'main-icon-img' src ={`${imagePath}/icon.jpg`} alt="Jams Icon"/></Link >
                 <div class="flex-column py-2">
                 <Link to = "/" class= "james-navbar-buttons"><p id="jam-main-title" class="m-0 b-0 h2 jam-heading">JAMES LEE ILLUSTRATION</p></Link >
-                    <p class="m-0 b-0 h6 jam-heading">hello.jamesdl@gmail.com</p>
+                    <p class="m-0 b-0 h6 ">hello.jamesdl@gmail.com</p>
                 </div>
             </div>
             <div class="d-flex bounds-test align-items-end">

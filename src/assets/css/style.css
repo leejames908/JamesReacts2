@@ -3,6 +3,31 @@ PREVIEW HERE
 https://fonts.google.com/specimen/Source+Sans+3
 */
 
+.james-modal-text{
+    color: Black;
+
+}
+
+.jam-heading{
+    text-transform: uppercase;
+    font-family: 'FONTSPRING DEMO - Intervogue Alt Bold', sans-serif;
+}
+
+.jam-text{
+    
+    text-transform: uppercase;
+    font-family: 'FONTSPRING DEMO - Intervogue Alt Bold', sans-serif;
+
+}
+
+.modal-content{
+    
+background-color: rgb(255, 255, 255);
+}
+.james-modal-alignment{
+    margin: 0 auto 0 auto ;
+}
+
 .james-navbar-buttons{
     text-decoration: none;
 
@@ -72,6 +97,8 @@ https://www.fontsquirrel.com/fonts/quicksand
     height: 75px;
     margin: 10px;
 }
+
+
 
 #jam-main-title {
     padding: 0 !important;

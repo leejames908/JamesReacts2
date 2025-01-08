@@ -102,7 +102,7 @@ import { imagePath } from '../utils/helpers'
             project: "Trainer Cards",
             indexNumber: '',
             description: "Trainer card illustrations of the 8 pokemon gym leaders in Kanto.",
-            imgUrl: [`${imagePath}/card5Sabrina`],
+            imgUrl: [`${imagePath}/card5Sabrina.JPG`],
             imgSize: "",
         },
         {
@@ -310,7 +310,7 @@ import { imagePath } from '../utils/helpers'
             project: "Illustration",
             indexNumber: '',
             description: "Personal illustration",
-            imgUrl: [`${imagePath}/`],
+            imgUrl: [`${imagePath}/illustration14.JPG`],
             imgSize: "",
         },
 				{
