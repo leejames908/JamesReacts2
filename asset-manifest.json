@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/JamesReacts2/static/css/main.13e92411.css",
-    "main.js": "/JamesReacts2/static/js/main.2748471a.js",
-    "static/js/787.4e595bd3.chunk.js": "/JamesReacts2/static/js/787.4e595bd3.chunk.js",
+    "main.css": "/JamesReacts2/static/css/main.35453c0c.css",
+    "main.js": "/JamesReacts2/static/js/main.38273b2a.js",
+    "static/js/488.8a8cc78b.chunk.js": "/JamesReacts2/static/js/488.8a8cc78b.chunk.js",
     "static/media/Fontspring-DEMO-intervoguealt-bold.svg": "/JamesReacts2/static/media/Fontspring-DEMO-intervoguealt-bold.5d3e072c6d761cbc6144.svg",
     "static/media/try_clother-regular-webfont.woff": "/JamesReacts2/static/media/try_clother-regular-webfont.738fac173e6804c5888b.woff",
     "static/media/try_clother-bold-webfont.woff": "/JamesReacts2/static/media/try_clother-bold-webfont.d83a8cb5ed528d87fe3d.woff",
@@ -12,12 +12,12 @@
     "static/media/Fontspring-DEMO-intervoguealt-bold.woff": "/JamesReacts2/static/media/Fontspring-DEMO-intervoguealt-bold.6d242c95eac6fb2f74c6.woff",
     "static/media/Fontspring-DEMO-intervoguealt-bold.woff2": "/JamesReacts2/static/media/Fontspring-DEMO-intervoguealt-bold.364c10bc2c5943d0cf95.woff2",
     "index.html": "/JamesReacts2/index.html",
-    "main.13e92411.css.map": "/JamesReacts2/static/css/main.13e92411.css.map",
-    "main.2748471a.js.map": "/JamesReacts2/static/js/main.2748471a.js.map",
-    "787.4e595bd3.chunk.js.map": "/JamesReacts2/static/js/787.4e595bd3.chunk.js.map"
+    "main.35453c0c.css.map": "/JamesReacts2/static/css/main.35453c0c.css.map",
+    "main.38273b2a.js.map": "/JamesReacts2/static/js/main.38273b2a.js.map",
+    "488.8a8cc78b.chunk.js.map": "/JamesReacts2/static/js/488.8a8cc78b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13e92411.css",
-    "static/js/main.2748471a.js"
+    "static/css/main.35453c0c.css",
+    "static/js/main.38273b2a.js"
   ]
 }
